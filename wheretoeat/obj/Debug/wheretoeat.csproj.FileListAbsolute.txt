@@ -1,0 +1,12 @@
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\bin\Debug\wheretoeat.exe.config
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\bin\Debug\wheretoeat.exe
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\bin\Debug\wheretoeat.pdb
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.csprojResolveAssemblyReference.cache
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.MainForm.resources
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.Properties.Resources.resources
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.csproj.GenerateResource.cache
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.csproj.CoreCompileInputs.cache
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.exe
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.pdb
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.placeList.resources
+C:\Users\duter\Desktop\Project\wheretoeat\wheretoeat\obj\Debug\wheretoeat.InputInfo.resources
